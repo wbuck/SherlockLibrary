@@ -1,9 +1,4 @@
-﻿/***********************************************************************************
- * Created By Warren Buckley
- * Library file to ease development of a user interface for Sherlock
- */
-
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
